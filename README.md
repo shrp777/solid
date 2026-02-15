@@ -8,6 +8,8 @@ Illustration des principes __SOLID__ en TypeScript.
 - Interface Segregation Principle (ISP)
 - Dependency Inversion Principle (DIP)
 
+![alt SOLID](assets/solid.png)
+
 --
 
 !["Logotype Shrp"](https://sherpa.one/images/sherpa-logotype.png)
