@@ -1,5 +1,7 @@
 # SOLID
 
+TODO: ISP + DIP
+
 Illustration des principes __SOLID__ en TypeScript.
 
 - Single Responsibility Principle (SRP)
